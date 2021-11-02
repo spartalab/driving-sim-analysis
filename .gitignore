@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+.vscode
+.mypy_cache
+.pytest_cache
+*.png
+data
